@@ -4,7 +4,7 @@
 **Author:** Syed Khaja Fareeduddin  
 **Date:** 14 November 2025  
 
-This repository contains the implementation and analysis for Assignment 2 of the Speech-to-Speech Machine Translation evaluation.  
+This repository contains the implementation and analysis for Assignment 2 of the Speech-to-Speech Machine Translation Research Assistant position evaluation.  
 The goal is to build character-level neural language models from scratch using PyTorch and study underfitting, overfitting, best-fit behaviour, and perplexity.  
 A Transformer model is also implemented for extra credit.
 
