@@ -10,9 +10,6 @@ A Transformer model is also implemented.
 nlm_pytorch/
 ├─ dataset/
 |  └── Pride_and_Prejudice-Jane_Austen.txt
-|  
-├─ report/
-|  └── NLM_Report_SyedKhajaFareeduddin.pdf
 |
 ├─ src/
 │  ├── data_preprocessing.py
